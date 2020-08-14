@@ -1,0 +1,17 @@
+{
+    "name": "azathoth/php-test-task",
+    "require": {
+        "phpunit/phpunit": "^9.3"
+    },
+    "authors": [
+        {
+            "name": "TomuraCreator",
+            "email": "vladislavutkin92@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+		"": "src/"
+	}
+    }
+}
